@@ -27,11 +27,13 @@ In our future updates we’ll add a chat system, a window like messenger groups 
 <h2>Team Members:</h2>
 
 1.	Akansha Saxena
+
 •	https://g.dev/akanshasaxena (Google Developer Student Profile)
 
 •	https://github.com/akansha112/Meme-Share-App ( Git Hub Profile)
 
 2.	Khushboo
+
 •	https://g.dev/thelovelydove (Google Developer Student Profile)
 
 •	https://github.com/Khushboo679/Android-app.git (Git Hub Profile)
